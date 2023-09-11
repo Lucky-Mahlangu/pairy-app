@@ -50,6 +50,6 @@ This project is licensed under the [MIT License](LICENSE), allowing for open col
 
 ## Contact
 
-For any inquiries or feedback, please contact our team at [pairy@example.com](mailto:pairy@example.com).
+For any inquiries or feedback, please contact our team at [1395125@students.wits.ac.za](mailto:1395125@students.wits.ac.za).
 
 We are excited about the potential of this recommendation system to enhance user experiences within the Pairy App, and we look forward to your contributions and collaboration in achieving this goal.
